@@ -42,7 +42,7 @@ Maria - $ 1200.00<br />
 
 Calcula os ganhos de vários  trabalhadores sendo duas categorias: Trabalhador terceirizado, sendo que esse possui uma despesa adicional, ou trabalhador, sendo que esse não possui despesas adicionais.
 <div align="center">
-<img src="https://github.com/ricardorojr/CourseWorkerContractIncome/assets/49491955/c73bc91b-2d75-4824-b01f-0342670d3782"/>
+<img src="https://github.com/ricardorojr/Heranca_Polimorfismo-Dotnet/assets/49491955/316c1014-bc87-4829-b45d-af188ce9172e"/>
 </div>
 
 # Tecnologia utilizada:
