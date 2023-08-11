@@ -45,9 +45,9 @@ Calcula os ganhos de vários  trabalhadores sendo duas categorias: Trabalhador t
 <img src="https://github.com/ricardorojr/Heranca_Polimorfismo-Dotnet/assets/49491955/316c1014-bc87-4829-b45d-af188ce9172e"/>
 </div>
 
-# Tecnologia utilizada:
+# Tecnologias utilizadas:
 - .NET 6.0 https://download.visualstudio.microsoft.com/download/pr/31949bf4-c9ef-4e57-9da2-d798ab8b8bbf/fb7a481d9381bb740223629422a006e0/dotnet-runtime-6.0.21-win-x64.exe
-
+- Aplicativo Console
 
 
 [![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1][![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][2]
